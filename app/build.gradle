@@ -186,6 +186,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test:rules:1.0.1'
     androidTestImplementation "com.android.support.test.espresso:espresso-intents:${espresseVersion}"
     androidTestImplementation "com.android.support.test.espresso:espresso-core:${espresseVersion}"
+    androidTestImplementation 'androidx.test.uiautomator:uiautomator:2.2.0'
 }
 
 apply plugin: 'com.google.gms.google-services'

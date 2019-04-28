@@ -107,3 +107,10 @@ Yet another **open-source** GitHub client app but unlike any other app, FastHub 
 > Copyright (C) 2017 Kosh.  
 > Licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl.html) license.  
 > (See the [LICENSE](https://github.com/k0shk0sh/FastHub/blob/master/LICENSE) file for the whole license text.)
+
+Тесты:
+openTrending тестирует запуск экрана Trending
+changeTheme - смену темы
+restorePurchases - запуск экрана Restore Purchases
+checkToast - сообщение об отправке фидбека на экране Send feedback
+checkMarkup - верстку экрана About
